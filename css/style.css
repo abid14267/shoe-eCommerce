@@ -21,7 +21,7 @@ body{
     width: 360px;
 }
 .p-card-header img{
-    width: 300px;
+    max-width: 300px;
 }
 .p-card-template{
     border:0px !important;
